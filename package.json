@@ -1,0 +1,17 @@
+{
+  "name": "dr2-funeral-services",
+  "version": "1.0.0",
+  "description": "DR2 Funeral Services — Digital Platform",
+  "private": true,
+  "scripts": {
+    "dev": "serve public",
+    "build": "echo 'Build complete'",
+    "start": "serve public"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
